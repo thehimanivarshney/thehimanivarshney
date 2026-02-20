@@ -1,16 +1,42 @@
-## Hi there 👋
+# Himani Varshney
 
-<!--
-**thehimanivarshney/thehimanivarshney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BCA Student | Python & Web Development Learner
+Currently building structured, portfolio-ready projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Current Focus
+- Python fundamentals & automation
+- Data Structures in Python
+- Web basics (HTML)
+- Clean project structuring & Git workflow
+
+---
+
+## 🛠 Tech Stack
+- Python
+- C
+- Git & GitHub
+- HTML
+- VS Code
+
+---
+
+## 📂 Featured Projects
+- [QR Code Generator](https://github.com/thehimanivarshney/QR-Code-Generator)  
+  Structured Python project using `qrcode` library.
+
+- [Python Mini Projects](https://github.com/thehimanivarshney/python-mini-projects)
+
+---
+
+## 📈 Currently Learning
+- Improving project architecture
+- Writing cleaner Python code
+- Strengthening DSA foundations
+
+---
+
+## 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/himanivarshney14/
+- Email: himanivarshney42@gmail.com
