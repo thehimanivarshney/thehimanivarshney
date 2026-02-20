@@ -8,9 +8,9 @@ Currently building structured, portfolio-ready projects.
 ## 🔍 Current Focus
 - Python fundamentals & automation
 - Data Structures in Python
-- Web basics (HTML)
+- Foundations of AI & Machine Learning
 - Clean project structuring & Git workflow
-
+- Web basics (HTML)
 ---
 
 ## 🛠 Tech Stack
@@ -34,6 +34,11 @@ Currently building structured, portfolio-ready projects.
 - Improving project architecture
 - Writing cleaner Python code
 - Strengthening DSA foundations
+
+---
+
+## 🚀 Next Goal
+Building projects involving data analysis and introductory machine learning models.
 
 ---
 
