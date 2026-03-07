@@ -23,6 +23,7 @@ Currently building structured, portfolio-ready projects.
 ---
 
 ## 📂 Featured Projects
+- [File Organizer](https://github.com/thehimanivarshney/File_Organizer)
 - [QR Code Generator](https://github.com/thehimanivarshney/QR-Code-Generator)  
   Structured Python project using `qrcode` library.
 
