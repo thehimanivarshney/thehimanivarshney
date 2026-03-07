@@ -44,5 +44,5 @@ Building projects involving data analysis and introductory machine learning mode
 ---
 
 ## 📫 Connect
-- LinkedIn: https://www.linkedin.com/in/himanivarshney14/
+- LinkedIn: https://www.linkedin.com/in/himanivarshney
 - Email: himanivarshney42@gmail.com
