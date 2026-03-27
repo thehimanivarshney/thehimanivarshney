@@ -10,7 +10,7 @@ Currently building structured, portfolio-ready projects.
 - Data Structures in Python
 - Foundations of AI & Machine Learning
 - Clean project structuring & Git workflow
-- Web basics (HTML)
+- Web basics (HTML, CSS)
 ---
 
 ## 🛠 Tech Stack
@@ -18,15 +18,16 @@ Currently building structured, portfolio-ready projects.
 - C
 - Git & GitHub
 - HTML
+- CSS
 - VS Code
 
 ---
 
 ## 📂 Featured Projects
+
+- [eduTest](https://github.com/thehimanivarshney/edutest)
 - [File Organizer](https://github.com/thehimanivarshney/File_Organizer)
 - [QR Code Generator](https://github.com/thehimanivarshney/QR-Code-Generator)  
-  Structured Python project using `qrcode` library.
-
 - [Python Mini Projects](https://github.com/thehimanivarshney/python-mini-projects)
 
 ---
