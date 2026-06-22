@@ -57,7 +57,7 @@ Building projects involving data analysis and introductory machine learning mode
 ---
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/himanivarshney/)
-[![Email](himanivarshney42@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&style=flat-square)](mailto:himanivarshney42@gmail.com)
 
 
 ---
