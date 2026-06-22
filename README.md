@@ -1,21 +1,22 @@
 # Himani Varshney
 
-BCA Student | Python & Web Development Learner
-Currently building structured, portfolio-ready projects.
+Aspiring AI Engineer | Student at AKTU | Python Developer | Data Structures & Algorithms | React | Machine Learning Enthusiast |
 
 ---
 
 ## 🔍 Current Focus
 - Python fundamentals & automation
-- Data Structures in Python
+- Data Structures and Algorithms in Python
 - Foundations of AI & Machine Learning
 - Clean project structuring & Git workflow
 - Web basics (HTML, CSS)
+  
 ---
 
 ## 🛠 Tech Stack
 - Python
 - C
+- DSA
 - Git & GitHub
 - HTML
 - CSS
@@ -44,6 +45,20 @@ Building projects involving data analysis and introductory machine learning mode
 
 ---
 
-## 📫 Connect
-- LinkedIn: https://www.linkedin.com/in/himanivarshney
-- Email: himanivarshney42@gmail.com
+
+## GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thehimanivarshney&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=thehimanivarshney&show_icons=true&theme=tokyonight)
+
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=thehimanivarshney&theme=dark&hide_border=true)
+
+
+---
+## Contact
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/himanivarshney/)
+[![Email](himanivarshney42@gmail.com)
+
+
+---
+Thanks for visiting — feel free to say hi! 👋
