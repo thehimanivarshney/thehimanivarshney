@@ -4,7 +4,7 @@ Aspiring AI Engineer | Student at AKTU | Python Developer | Data Structures & Al
 
 ---
 
-## 🔍 Current Focus
+##  Current Focus
 - Python fundamentals & automation
 - Data Structures and Algorithms in Python
 - Foundations of AI & Machine Learning
@@ -13,7 +13,7 @@ Aspiring AI Engineer | Student at AKTU | Python Developer | Data Structures & Al
   
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 - Python
 - C
 - DSA
@@ -24,23 +24,26 @@ Aspiring AI Engineer | Student at AKTU | Python Developer | Data Structures & Al
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
 - [eduTest](https://github.com/thehimanivarshney/edutest)
+- [Intelligent-Skill-Gap-Resume-Analyzer](https://github.com/thehimanivarshney/Intelligent-Skill-Gap-Resume-Analyzer)
+- [E-Commerce-Product-Return-Sustainability-Prediction](https://github.com/thehimanivarshney/E-Commerce-Product-Return-Sustainability-Prediction)
 - [File Organizer](https://github.com/thehimanivarshney/File_Organizer)
 - [QR Code Generator](https://github.com/thehimanivarshney/QR-Code-Generator)  
 - [Python Mini Projects](https://github.com/thehimanivarshney/python-mini-projects)
 
+
 ---
 
-## 📈 Currently Learning
+##  Currently Learning
 - Improving project architecture
 - Writing cleaner Python code
 - Strengthening DSA foundations
 
 ---
 
-## 🚀 Next Goal
+##  Next Goal
 Building projects involving data analysis and introductory machine learning models.
 
 ---
